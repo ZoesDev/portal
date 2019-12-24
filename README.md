@@ -1,2 +1,8 @@
-# portal
-Portal to the world on my network
+# Setup
+
+```
+npm install -g bower 
+npm install
+bower install
+
+```
