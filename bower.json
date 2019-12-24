@@ -1,0 +1,26 @@
+{
+  "name": "website-core",
+  "description": "Global dependencies: \"node-dev\"    Recommended global installs: webpack, node-sass, eslint",
+  "main": "app.js",
+  "authors": [
+    "Zoe"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vue-good-table": "https://github.com/xaksis/vue-good-table.git#^2.18.0",
+    "vue": "^2.6.10",
+    "vue-form": "^4.10.1",
+    "vue-notifications": "^1.0.2",
+    "vue-touch": "^1.1.0",
+    "portal-vue": "https://github.com/LinusBorg/portal-vue.git#^2.1.6",
+    "bulma": "^0.8.0"
+  }
+}
